@@ -9,8 +9,8 @@
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/talk2sohail)
 
 ## 🚀 Favourite Projects
-- [Osquery](https://github.com/osquery/osquery.git)
-- [TiDB](https://github.com/pingcap/tidb)
+- [Osquery](https://github.com/osquery/osquery.git) - SQL powered operating system instrumentation, monitoring, and analytics.
+- [TiDB](https://github.com/pingcap/tidb) - the open-source, cloud-native, distributed SQL database designed for modern applications.
 
 ## 📊 GitHub Stats
 
