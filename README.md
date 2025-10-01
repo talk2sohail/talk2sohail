@@ -9,15 +9,10 @@
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/talk2sohail)
 
 ## 🚀 Favourite Projects
-- **logger**: Reliable logging for modern applications  
-- **extensions**: Plug-in architecture and tools  
-- **Onu**: Networking utilities and automation
+- [Osquery](https://github.com/osquery/osquery.git)
+- [TiDB](https://github.com/pingcap/tidb)
 
 ## 📊 GitHub Stats
 
 ![Sohail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=talk2sohail&show_icons=true&hide_title=true&hide_rank=false&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talk2sohail&layout=compact&theme=radical)
-
----
-
-> _“Code is poetry. Let's write something beautiful together!”_
